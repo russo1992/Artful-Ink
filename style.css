@@ -249,7 +249,7 @@ background: #101010;
 }
 
 .rectangle__rectangle__rectangle{
-    background-image: url(imagens/Rectangle\ 7.png);
+    background-image: url(imagem/Rectangle\ 7.png);
     position: absolute;
     color: var(--branco-principal);
     width: 87px;
